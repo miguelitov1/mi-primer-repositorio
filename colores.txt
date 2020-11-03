@@ -3,3 +3,4 @@ azul
 rojo
 blanco
 lila
+rosa
