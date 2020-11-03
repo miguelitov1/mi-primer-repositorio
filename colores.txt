@@ -4,3 +4,4 @@ rojo
 blanco
 lila
 rosa
+negro
